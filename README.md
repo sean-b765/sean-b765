@@ -34,6 +34,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px" />
 
+![sean-b765's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-b765)
+
 ## Experience
 
 ### ~4 Years
