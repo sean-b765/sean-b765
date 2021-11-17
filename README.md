@@ -3,7 +3,8 @@
 - 👋 I’m @sean-b765
 - 👀 I’m interested in web dev, programming and music production
 - 🌱 I’m currently learning Node and React
-- 💞️ I’m looking to collaborate on any web projects (:
+- 💞️ I’m looking to collaborate on any web projects
+- [View my gists](https://gist.github.com/sean-b765)
 
 ## View my [WIP] notes [here](https://github.com/sean-b765/notes)
 
