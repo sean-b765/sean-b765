@@ -1,6 +1,10 @@
-# Welcome
+# 👋 Welcome
 
-- 👋 I’m @sean-b765
+![sean-b765's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-b765&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-b765&langs_count=5&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+-  I’m @sean-b765
 - 👀 I’m interested in web dev, programming and music production
 - 🌱 I’m currently learning Node and React
 - 💞️ I’m looking to collaborate on any web projects
@@ -35,4 +39,3 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px" />
 
-![sean-b765's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-b765)
