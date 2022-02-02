@@ -7,6 +7,7 @@
 
 ## Find Me
 
+- [Portfolio](https://sean-b.com)
 - [View my gists](https://gist.github.com/sean-b765)
 - [StackOverflow](https://stackoverflow.com/users/12250689/sb)
 - [Codepen](https://codepen.io/sean-b765/pens/public)
