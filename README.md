@@ -15,6 +15,8 @@
 - [CodeSandbox](https://codesandbox.io/u/sean-b765)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/sean-b765)
 
+![sean-b765's stackoverflow stats](https://stack-stats-eight.vercel.app/user/12250689?theme=retro)
+
 ![sean-b765's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-b765&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-b765&langs_count=5&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
