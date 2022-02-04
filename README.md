@@ -8,6 +8,7 @@
 ## Find Me
 
 - [Portfolio](https://sean-b.com)
+- [LinkedIn](https://www.linkedin.com/in/sean-boaden/)
 - [View my gists](https://gist.github.com/sean-b765)
 - [StackOverflow](https://stackoverflow.com/users/12250689/sb)
 - [Codepen](https://codepen.io/sean-b765/pens/public)
@@ -20,8 +21,6 @@
 ![sean-b765's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-b765&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-b765&langs_count=5&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-## View my [WIP] notes [here](https://github.com/sean-b765/notes)
 
 ## Strengths
 
