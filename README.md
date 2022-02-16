@@ -51,12 +51,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sean_b"/>
 </p>
-<p align="center">
-  <img src="https://stack-stats-eight.vercel.app/user/12250689?theme=retro"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sean-b765&theme=synthwave"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-b765&langs_count=5&theme=synthwave"/>
-</p>
