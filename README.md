@@ -1,8 +1,8 @@
 <p align="center">Hi! I'm</p>
 
-<h1 align="center">
+<p align="center">
   <a href="https://sean-b.com">sean boaden</a>
-</h1>
+</p>
 
 <br/><br/>
 
