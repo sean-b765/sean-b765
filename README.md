@@ -21,33 +21,5 @@
 <br/>
 
 <p align="center">
-  I am:
-</p>
-<ul align="center">
-  👀 interested in collaborating / working
-  
-  🌱 always learning Next, React
-</ul>
-
-<br/>
-<br/>
-<br/>
-
-<ul align="center">
-  
-  [LinkedIn](https://www.linkedin.com/in/sean-boaden/)  | 
-  [Codepen](https://codepen.io/sean-b765/pens/public)  | 
-  [JSFiddle](https://jsfiddle.net/user/seanb0/fiddles/)  |
-  [CodeSandbox](https://codesandbox.io/u/sean-b765)  |
-  [Frontend Mentor](https://www.frontendmentor.io/profile/sean-b765)  |
-  [StackOverflow](https://stackoverflow.com/users/12250689/sb)
-  
-</ul>
-
-<br/>
-<br/>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sean_b"/>
+  <img src="https://wakatime.com/badge/user/2310baea-2bcc-42e9-aa57-459594f791bb.svg" />
 </p>
