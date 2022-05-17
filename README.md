@@ -1,7 +1,7 @@
 <p align="center">Hi! I'm</p>
 
 <p align="center">
-  <a href="https://sean-b.com">sean boaden</a>
+  <a href="https://sean-b.com">Sean Boaden</a>
 </p>
 
 <br/><br/>
