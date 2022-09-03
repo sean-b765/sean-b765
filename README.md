@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,nodejs,java,mongodb)](https://sean-b.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,nodejs,java,spring,mongodb&perline=4)](https://sean-b.com)
 
 </p>
 
